@@ -1,0 +1,2 @@
+- Run `npm install` to pull in platforms & plugins
+- Replace api keys in `config.xml`
