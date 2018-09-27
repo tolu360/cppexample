@@ -2,7 +2,7 @@
     "name": "com.arttitude.cppexample",
     "displayName": "CppExample",
     "version": "1.0.0",
-    "description": "A sample Apache Cordova application to play with cordova-plugin-paystack.",
+    "description": "A sample Apache Cordova application to play with & debug cordova-plugin-paystack.",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
